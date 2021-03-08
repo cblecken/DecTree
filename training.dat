@@ -1,0 +1,63 @@
+Class names: malignant benign 
+
+Feature names and their values:
+     smoking => heavy medium light never 
+     videoAddiction => none low medium heavy 
+     fatIntake => low medium heavy 
+     exercising => never occasionally regularly 
+
+
+Training Data:
+
+sample          class           exercising      fatIntake       smoking         videoAddiction  
+================================================================================================
+sample_0        malignant       occasionally    heavy           heavy           heavy           
+sample_1        malignant       occasionally    medium          light           medium          
+sample_2        benign          regularly       medium          light           heavy           
+sample_3        benign          occasionally    heavy           never           medium          
+sample_4        benign          regularly       medium          medium          medium          
+sample_5        benign          regularly       heavy           light           none            
+sample_6        benign          never           medium          never           heavy           
+sample_7        benign          regularly       medium          never           medium          
+sample_8        benign          occasionally    low             heavy           heavy           
+sample_9        malignant       never           heavy           heavy           medium          
+sample_10       malignant       never           heavy           never           low             
+sample_11       benign          never           low             never           heavy           
+sample_12       malignant       never           heavy           never           none            
+sample_13       benign          regularly       low             medium          medium          
+sample_14       benign          regularly       low             heavy           heavy           
+sample_15       benign          regularly       low             light           none            
+sample_16       benign          regularly       low             heavy           low             
+sample_17       benign          never           low             light           low             
+sample_18       benign          regularly       low             never           medium          
+sample_19       malignant       regularly       medium          heavy           medium          
+sample_20       malignant       never           heavy           heavy           heavy           
+sample_21       benign          regularly       heavy           medium          none            
+sample_22       malignant       never           low             heavy           heavy           
+sample_23       malignant       never           heavy           light           heavy           
+sample_24       benign          occasionally    medium          medium          none            
+sample_25       benign          never           medium          medium          medium          
+sample_26       malignant       never           heavy           heavy           heavy           
+sample_27       benign          occasionally    low             heavy           low             
+sample_28       malignant       occasionally    heavy           medium          none            
+sample_29       malignant       occasionally    heavy           heavy           heavy           
+sample_30       benign          occasionally    low             medium          heavy           
+sample_31       malignant       never           low             heavy           medium          
+sample_32       malignant       never           low             heavy           medium          
+sample_33       malignant       never           low             heavy           medium          
+sample_34       malignant       occasionally    heavy           never           none            
+sample_35       benign          regularly       medium          never           low             
+sample_36       benign          occasionally    low             light           heavy           
+sample_37       malignant       never           heavy           heavy           none            
+sample_38       malignant       occasionally    low             heavy           heavy           
+sample_39       malignant       occasionally    heavy           medium          medium          
+sample_40       malignant       never           heavy           heavy           none            
+sample_41       malignant       never           heavy           heavy           medium          
+sample_42       malignant       occasionally    low             heavy           none            
+sample_43       malignant       occasionally    heavy           light           none            
+sample_44       malignant       never           low             heavy           none            
+sample_45       malignant       occasionally    heavy           heavy           none            
+sample_46       malignant       never           medium          heavy           low             
+sample_47       malignant       occasionally    heavy           heavy           none            
+sample_48       benign          occasionally    medium          heavy           heavy           
+sample_49       benign          regularly       medium          heavy           medium          
